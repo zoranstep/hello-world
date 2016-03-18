@@ -1,0 +1,5 @@
+<rows>
+  <Row PartNumber="ALC1-0800-0951-203" Description="STGR-LIM-A2P-72-HBI" Failure="Low HW or SW revision" Defect="UPG" Rework="CHANGE COMPONENT" Component="ALC1-702036971" Location="U1001,U1301,U1601" Qty="4767" />
+  <Row PartNumber="ALC1-0800-0951-203" Description="STGR-LIM-A2P-72-HBI" Failure="Low HW or SW revision" Defect="UPG" Rework="CHANGE COMPONENT" Component="ALC1-702067034" Location="U1001,U1301,U1601" Qty="4536" />
+  <Row PartNumber="ALC1-0800-0951-203" Description="STGR-LIM-A2P-72-HBI" Failure="Low HW or SW revision" Defect="UPG" Rework="CHANGE COMPONENT" Component="ALC1-L702036971" Location="U1001,U1301,U1601" Qty="379" />
+</rows>
